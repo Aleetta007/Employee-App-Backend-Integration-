@@ -1,0 +1,26 @@
+{
+  "name": "employee-app-backend-integration-",
+  "version": "1.0.0",
+  "description": "MERN Stack Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleetta007/Employee-App-Backend-Integration-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aleetta007/Employee-App-Backend-Integration-/issues"
+  },
+  "homepage": "https://github.com/Aleetta007/Employee-App-Backend-Integration-#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^4.22.3",
+    "mongoose": "^9.11.2"
+  }
+}
